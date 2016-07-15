@@ -105,11 +105,13 @@ a {
 
 #person1 {
     background-image: url(../images/Ed.jpg)
+    width: 600px;
+    height: 1020px;
 }
 
 #person2 {
     background-image: url(../images/horse-516139_1920.jpg)
-}
+    }
 
 #person3 {
     background-image: url(../images/horse-516139_1920.jpg)
